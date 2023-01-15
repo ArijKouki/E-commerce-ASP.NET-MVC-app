@@ -1,0 +1,21 @@
+﻿
+@model Product
+@{
+<div class="alert alert-success" role="alert">
+  <h4 class="alert-heading">Well done!</h4>
+    <p>Aww yeah, you have successfully bought @Model.name @Model.type. You'll be recieving it promptlys.</p>
+  <hr>
+</div>
+    
+    }
+    <div class="card border-success mb-3" style="max-width: 18rem;">
+  <div class="card-header"></div>
+  <div class="card-body text-success">
+		<h5 class="card-title">My Command</h5>
+		<p class="card-text">
+			Name : @Model.name
+			Type : @Model.type
+			Price :@Model.price
+		</p>
+        <a href="/Home/Index" class="badge badge-dark">BUY MORE</a>
+  </div>

@@ -23,7 +23,7 @@ namespace project.Data
         public static ProjectContext Instantiate_ProjectContext()
         {
             var optionsBuilder = new DbContextOptionsBuilder<ProjectContext>();
-            var connection = optionsBuilder.UseSqlite("Data Source=C:\\Users\\MSI\\source\\repos\\project\\project.db");
+            var connection = optionsBuilder.UseSqlite("Data Source=C:\\E-commerce-ASP.NET-MVC-app\\project.db");
             //var connection = optionsBuilder.UseSqlite("Data Source=C:\\Users\\MSI\\source\\repos\\project\\project (1).db");
             return new ProjectContext(optionsBuilder.Options);
         }

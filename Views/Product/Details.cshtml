@@ -27,7 +27,7 @@ else{
                 <br>
                 <h3 class="card-title">@s.price $ </h3>
             
-            <a href="@(UserRepository.currentUser!=null? "/Product/Buy" : "/Account/Login")" class="btn btn-outline-secondary"><h2>Buy now!</h2></a>
+            <a href="@(UserRepository.currentUser!=null? "/Product/Buy/"+@s.Product_Id : "/Account/Login")" class="btn btn-outline-secondary"><h2>Buy now!</h2></a>
                 
                 
                 

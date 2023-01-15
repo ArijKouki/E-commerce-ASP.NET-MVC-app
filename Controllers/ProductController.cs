@@ -41,5 +41,12 @@ namespace project.Controllers
             IProductRepository ProductRep = new ProductRepository(Context);
             return View(ProductRep.GetProductByGenre(genre));
         }
+        public ActionResult Buy(int id)
+        { 
+            ProjectContext Context = ProjectContext.Instance;
+            IProductRepository repo = new ProductRepository(Context);
+            Product product = repo.getProductById(id);
+            return View(product);
+        }
     }
 }

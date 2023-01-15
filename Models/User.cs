@@ -13,7 +13,7 @@ namespace project.Models
             this.birth_date = birth_date;
             this.address = address;
         }
-        public static int id_generator = 100;
+        public static int id_generator = 110;
 
         [Key]  public int User_Id { get; set; }
         public string first_name { get; set; }

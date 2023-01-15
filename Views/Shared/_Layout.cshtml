@@ -63,7 +63,7 @@
                         <span class="menu-title">Home</span>
                     </a>
                 </li>
-
+             
                 <li class="nav-item menu-items">
                     <a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
                         <span class="menu-icon">
@@ -85,7 +85,7 @@
                         <span class="menu-icon">
                             <i class='bx bxs-playlist'></i>
                         </span>
-                        <span class="menu-title">Genre</span>
+                        <span class="menu-title" >Genre</span>
                         <i class="menu-arrow"></i>
                     </a>
                     <div class="collapse" id="ui-basic">
@@ -93,51 +93,52 @@
                             <li class="nav-item"> 
                                 @Html.ActionLink("Pop Rock", "ProductByGenre", "Product",
                                 new { genre = "Pop Rock"},
-                                new { @class = "btn"})
+                                new { @class = "nav-link"})
                             </li>
                             <li class="nav-item">
                                 @Html.ActionLink("Alternative Rock", "ProductByGenre", "Product",
                                 new { genre = "Alternative Rock"},
-                                new { @class = "btn"})
+                                new { @class = "nav-link"})
                             </li>
                             <li class="nav-item">
                                 @Html.ActionLink("Indie Rock", "ProductByGenre", "Product",
                                 new { genre = "Indie Rock"},
-                                new { @class = "btn"})
+                                new { @class = "nav-link"})
                             </li>
                             <li class="nav-item">
                                 @Html.ActionLink("Pop", "ProductByGenre", "Product",
                                 new { genre = "Pop"},
-                                new { @class = "btn"})
+                                new { @class = "nav-link"})
                             </li>
                             <li class="nav-item">
                                 @Html.ActionLink("RnB", "ProductByGenre", "Product",
                                 new { genre = "RnB"},
-                                new { @class = "btn"})
+                                new { @class = "nav-link"})
                             </li>
                             <li class="nav-item">
                                 @Html.ActionLink("Rock", "ProductByGenre", "Product",
                                 new { genre = "Rock"},
-                                new { @class = "btn"})
+                                new { @class = "nav-link"})
                             </li>
                             <li class="nav-item">
                                 @Html.ActionLink("Country", "ProductByGenre", "Product",
                                 new { genre = "Country"},
-                                new { @class = "btn"})
+                                new { @class = "nav-link"})
                             </li>
                             <li class="nav-item">
                                 @Html.ActionLink("Latino", "ProductByGenre", "Product",
                                 new { genre = "Latino"},
-                                new { @class = "btn"})
+                                new { @class = "nav-link"})
                             </li>
                             <li class="nav-item">
                                 @Html.ActionLink("Arabica", "ProductByGenre", "Product",
                                 new { genre = "Arabica"},
-                                new { @class = "btn"})
+                                new { @class = "nav-link"})
                             </li>
                         </ul>
                     </div>
                 </li>
+              
                @* <li class="nav-item menu-items">
                     <a class="nav-link" href="#">
                         <span class="menu-icon">

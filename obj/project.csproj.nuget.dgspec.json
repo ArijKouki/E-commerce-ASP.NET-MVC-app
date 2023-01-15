@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI\\source\\repos\\project\\project.csproj": {}
+    "C:\\E-commerce-ASP.NET-MVC-app\\project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI\\source\\repos\\project\\project.csproj": {
+    "C:\\E-commerce-ASP.NET-MVC-app\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI\\source\\repos\\project\\project.csproj",
+        "projectUniqueName": "C:\\E-commerce-ASP.NET-MVC-app\\project.csproj",
         "projectName": "project",
-        "projectPath": "C:\\Users\\MSI\\source\\repos\\project\\project.csproj",
-        "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI\\source\\repos\\project\\obj\\",
+        "projectPath": "C:\\E-commerce-ASP.NET-MVC-app\\project.csproj",
+        "packagesPath": "C:\\Users\\emnag\\.nuget\\packages\\",
+        "outputPath": "C:\\E-commerce-ASP.NET-MVC-app\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\emnag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

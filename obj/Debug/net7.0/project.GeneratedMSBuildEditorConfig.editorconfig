@@ -9,81 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = project
 build_property.RootNamespace = project
-build_property.ProjectDir = C:\Users\MSI\source\repos\project\
+build_property.ProjectDir = C:\E-commerce-ASP.NET-MVC-app\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\MSI\source\repos\project
+build_property.MSBuildProjectDirectory = C:\E-commerce-ASP.NET-MVC-app
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/MSI/source/repos/project/Views/Account/All.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Account/All.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Account/EditProfile.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Account/EditProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0UHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Account/Login.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Account/Profile.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Account/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Account/Register.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Account/RegisterCompleted.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Account/RegisterCompleted.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RlckNvbXBsZXRlZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Home/Index.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Home/LoggedIn.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Home/LoggedIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dnZWRJbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Home/Privacy.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Product/Albums.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Product/Albums.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBbGJ1bXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Product/Details.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Product/Buy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxCdXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/E-commerce-ASP.NET-MVC-app/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Product/ProductByGenre.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Product/ProductByGenre.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0QnlHZW5yZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Product/Singles.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Product/Singles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaW5nbGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Shared/Error.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/_ViewImports.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/_ViewStart.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MSI/source/repos/project/Views/Shared/_Layout.cshtml]
+[C:/E-commerce-ASP.NET-MVC-app/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t5518iznra
